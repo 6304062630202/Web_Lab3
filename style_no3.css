@@ -1,0 +1,15 @@
+span.p1{
+    background-color: yellow;
+    text-decoration: underline;
+}
+span.p2{
+    background-color: gray;
+}
+span.p3{
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+input{
+    background: gray;
+}
